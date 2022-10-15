@@ -1,6 +1,4 @@
 
-
-
 <h1 align="center">Hi 👋, I'm Adam MILED</h1>
 <h3 align="center">A passionate Software Engineering Student from Tunisia.</h3>
 
